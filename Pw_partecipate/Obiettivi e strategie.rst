@@ -50,3 +50,22 @@ Alla luce delle analisi svolte internamente al gruppo di lavoro e con il monitor
 Relativamente a questo obiettivo si dovrà procedere, partendo dall’ “As Is” dell’attuale procedura, mediante lo strumento BPMN, il programma Bizagi e il model Canvas alla  mappatura del processo.
 Una volta analizzata tale mappatura si procederà alla realizzazione del processo re-ingegnerizzato sempre con gli strumenti su indicati.
 Successivamente si procederà a migliorare tale processo in un’ottica PDCA al fine di generare un miglioramento e poi si tenterà di applicare al processo una logica Business Process Automation. 
+
+########################
+Aggiornamento di Midterm
+########################
+
+
+Come evidenziato, nel capitolo precedente, il PW originario ha subito delle modifiche legate principalmente ai seguenti elementi:
+- analisi dei contenuti delle procedure,
+- modifiche delle tempistiche,
+- approfondimento temi di organizzazione e di pianificazione con docenti,
+- cambiamenti organizzativi dell’Area organizzativa Partecipazioni Aziendali,
+- estensione soggetti interessati alla procedura (caso società in house providing).
+
+Tali elementi uniti ad un maggior focus conoscitivo sugli strumenti di pianificazione e modeler hanno di fatto modificato il PW originario e per questa ragione i tre sub-obiettivi originari sono stati riprogrammati e si è deciso di concentrarsi sul primo sub-obiettivo declinando l’analisi al processo di approvazione dei bilanci d’esercizio delle società partecipate.
+Si è anche approfondito il concetto di dematerializzazione nella PA e sui processi messi in atto per raggiungere tale obiettivo.
+Partendo da tale cambiamento si è proceduto ad analizzare il processo con il Model Canvas, si sono dettagliati i punti chiave dell’obbiettivo con la metodologia SMART evidenziando con il modello Swot Analisys i punti di forza e di debolezza del processo e successivamente si è lavorato con Bizagi Modeler per mappare l’AS IS e, con l’aiuto degli strumenti indicati, al suo aggiornamento e miglioramento.
+
+
+
