@@ -1,0 +1,185 @@
+#########
+Open Data
+#########
+
+Premessa
+#########
+
+
+Nella trattazione del processo con Bonita si è parlato di Bilanci nel formato Xbrl; si vuole qui fare una breve focus su tale formato, ma per farlo è necessario fare un passo indietro e parlare di dati aperti o come comunemente si legge “Open Data”.
+I dati aperti sono dati liberamente accessibili a tutti le cui eventuali restrizioni sono l'obbligo di citare la fonte o di mantenere la banca dati sempre aperta. 
+L'open data si richiama alla più ampia disciplina dell'open government, cioè una dottrina in base alla quale la pubblica amministrazione dovrebbe essere aperta ai cittadini, tanto in termini di trasparenza quanto di partecipazione diretta al processo decisionale, anche attraverso il ricorso alle nuove tecnologie dell'informazione e della comunicazione; e ha alla base un'etica simile ad altri movimenti e comunità di sviluppo "open", come l'open source, l'open access e l'open content. 
+
+Gli open data fanno di frequente riferimento a informazioni rappresentate in forma di database e riferite alle tematiche più disparate, ad esempio: cartografia, genetica, composti chimici, formule matematiche e scientifiche, dati medici e pratica, delle bioscienze, dati anagrafici, dati governativi, ecc. Vi sono alcune difficoltà oggettive che impediscono alla pratica dei dati aperti una larga diffusione.
+
+I primi ostacoli per l'apertura dei dati vengono da restrizioni a monte quali privacy, segreto statistico e interessi aziendali.
+
+Una rappresentazione tipica della necessità dell'apertura dei dati viene proposta in una dichiarazione di John Wilbanks, direttore esecutivo dello Science Commons:
+
+«Numerosi scienziati hanno sottolineato con ironia che proprio nel momento storico in cui disponiamo delle tecnologie per consentire la disponibilità dei dati scientifici a livello globale e dei sistemi di distribuzione che ci consentirebbero di ampliare la collaborazione e accelerare il ritmo e la profondità della scoperte... siamo occupati a bloccare i dati e a prevenire l'uso di tecnologie avanzate che avrebbero un forte impatto sulla diffusione della conoscenza.»
+
+Inoltre accade spesso che gli stessi creatori di dati sottovalutino l'importanza degli stessi e non considerino la necessità di precisare le condizioni della proprietà intellettuale, delle licenze e del loro riutilizzo. Ad esempio, molti enti (siano essi di natura scientifica o governativa) per mancanza di consapevolezza dell'importanza dei propri dati non prendono in considerazione l'ipotesi di rilasciarli con licenze aperte. La mancanza di una determinata licenza che certifichi la possibilità di riutilizzare i dati rende difficile determinare lo stato di un insieme di dati e ne limita l'uso.
+
+Il progetto Open Definition di Open Knowledge Foundation utilizza la seguente frase per definire dati (e contenuti) aperti: «un contenuto o un dato si definisce aperto se chiunque è in grado di utilizzarlo, ri-utilizzarlo e ridistribuirlo, soggetto, al massimo, alla richiesta di attribuzione e condivisione allo stesso modo».
+
+La definizione, molto sintetica, viene poi meglio esplicata attraverso il documento "Conoscenza Aperta" i cui contenuti sono molto simili a quelli della OSI definition. Si tratta di 11 punti che mettono chiarezza sulle modalità di distribuzione e di accesso a tale informazioni. Fra questi ricordiamo: la possibilità di utilizzare a qualsiasi scopo i dati (quindi eliminando clausole quali la possibilità di lucro) e l'assenza di restrizioni tecnologiche (formati aperti ma anche il servizio d'accesso).
+
+Secondo i sostenitori del movimento Open data, i dati andrebbero trattati come beni comuni; di seguito alcune delle argomentazione utilizzate a sostegno di questa tesi:
+
+-	I dati appartengono al genere umano. Esempi tipici sono i genomi, i dati sugli organismi per la scienza medica, dati ambientali e meteorologici, ecc.
+
+-	I dati prodotti dalla pubblica amministrazione, in quanto finanziati da denaro pubblico, devono ritornare ai contribuenti, e alla comunità in generale, sotto forma di dati aperti e universalmente disponibili
+
+-	Restrizioni sui dati e sul loro riutilizzo limitano lo sviluppo della comunità
+
+-	I dati sono necessari per agevolare l'esecuzione di comuni attività umane (ad esempio i dati cartografici, le istituzioni pubbliche, ecc.)
+
+-	In campo scientifico il tasso di scoperta è accelerato da un migliore accesso ai dati.
+
+-	È essenziale che i dati scientifici siano resi aperti per fare in modo che la scienza sia più efficace e la società ottenga il massimo beneficio dalle ricerche scientifiche.
+
+Tim Berners-Lee, il fondatore del World wide web, ha classificato il formato dei dati su una scala a cinque stelle: una stella corrisponde al minimo di apertura, cinque stelle al massimo:
+
+*Dato non strutturato e codificato in formato proprietario (esempi: un file pdf; un'immagine jpeg);
+
+** Dato strutturato ma codificato in formato proprietario (quindi abbastanza facile da poter essere elaborato da un'applicazione informatica);
+
+*** Dato strutturato in un formato non proprietario (per esempio, il formato CSV, che può essere aperto da qualsiasi software);
+
+****Dati strutturati e codificati in formato non proprietario e dotati di un identificativo unico di risorsa (URI). Un esempio è lo standard RDF: applica al dato un significato condiviso (“quel dato ha lo stesso significato in qualsiasi lingua, per qualsiasi Paese”);
+
+*****Dati aperti collegati ad altri insiemi di dati aperti (Linked data
+
+
+Nella scala di Berners-Lee, un dato può considerarsi aperto se ha almeno tre stellette.
+
+Open data rientra in un più ampio movimento di pensiero che mira a difendere i diritti dei cittadini/utenti con iniziative affini, da considerarsi parallele, sovrapporte in alcuni punti.
+
+L'Open content è il "padre" dell'Open data: il primo si occupa principalmente di opere creative, il secondo di dati e ricerca scientifica.
+Il software libero, che ha ispirato l'open content, è incentrato sulla libertà dell'utente oltre che sulla apertura del codice sorgente a beneficio del sistema sociale della produzione e distribuzione di software.
+L'open source è concentrato sulla sola apertura del codice sorgente (e non sulla sua redistribuzione).
+
+L'approccio aperto ai dati ha trovato applicazione in diversi paesi; di seguito vengono elencate alcune delle principali iniziative.
+
+**USA**
+Una grossa spinta all'affermarsi del movimento Open data in ambito governativo è stata data dall'ex-presidente degli Stati Uniti d'America Barack Obama con la promulgazione della Direttiva sull'Open government nel dicembre 2009, nella quale si legge testualmente:
+
+«Fin dove possibile e sottostando alle sole restrizioni valide, le agenzie devono pubblicare le informazioni on line utilizzando un formato aperto (open) che possa cioè essere recuperato, soggetto ad azioni di download, indicizzato e ricercato attraverso le applicazioni di ricerca web più comunemente utilizzate. Per formato open si intende un formato indipendente rispetto alla piattaforma, leggibile dall'elaboratore e reso disponibile al pubblico senza che sia impedito il riuso dell'informazione veicolata.»
+
+Alla direttiva sopra citata è stato dato un seguito "tangibile" attraverso il sito pubblico Data.gov, lanciato nel maggio 2009 dal "Chief Information Officer" (CIO) dell'amministrazione pubblica statunitense Vivek Kundra. Il sito è stato creato con l'obiettivo principale di raccogliere in un unico portale tutte le informazioni rese disponibili dagli enti statunitensi in formato aperto.
+
+**UE**
+Il portale Open Data dell'UE è stato avviato nel 2012, a seguito della Decisione 2011/833/UE della Commissione Europea sul riutilizzo dei documenti della Commissione stessa. La sua gestione tecnica è affidata all'Ufficio delle pubblicazioni ufficiali delle Comunità europee, mentre un apposito ufficio della Commissione si riserva di deciderne le politiche di gestione. Gli utenti possono accedere ai dati messi a disposizione da oltre 70 istituzioni europee che coprono l'intera gamma delle competenze dell'UE. Oltre ai dataset delle istituzioni europee, il Portale mette a disposizione anche vari strumenti (mappe e schemi interattivi, infografiche ecc.) che fanno uso dei dati pubblicati. Il Portale è open source ed i suoi dati sono liberamente utilizzabili per fini commerciali e non commerciali, con alcune eccezioni che vengono segnalate.
+
+Un portale più ampio varato il 16 novembre 2015, sempre dalla Commissione Europea, è l'European Data Portal, una piattaforma di metadati che permette di ricercare i dataset messi a disposizione in portali pubblici sia dalle istituzioni europee sia da quelle degli Stati membri dello Spazio economico europeo (i 28 membri dell'UE e i 4 membri dell'EFTA). Il portale viene sviluppato da un consorzio di aziende ed enti di ricerca europei.
+
+**ITALIA**
+
+Logo del portale dei dati aperti della Pubblica Amministrazione italiana dati.gov.it
+In Italia si è cominciato a parlare di dati aperti anche grazie al progetto OpenStreetMap. Con il fine di creare uno stradario liberamente utilizzabile, tra il 2007 e il 2010 alcune amministrazioni locali, grazie all'iniziativa di volontari (tra cui Ferrara, Merano, Vicenza, Montecchio Maggiore e Schio), hanno pubblicato con licenza aperta i dati dei propri stradari e altri propri dati. Il Ministro per la pubblica amministrazione e l'innovazione Renato Brunetta in un'intervista rilasciata il 3 giugno 2010 all'allora direttore di Wired Italia Riccardo Luna ha anticipato la realizzazione di un portale italiano dell'Open data sul modello dei datagov anglosassoni entro la fine dell'anno. In data 18 ottobre 2011 il portale dati.gov.it è stato messo on line.
+
+La Regione Piemonte nel maggio del 2010 ha realizzato il proprio portale regionale dei dati aperti . La regione Emilia-Romagna ha seguito l'esempio piemontese nel 2011 con il suo sito Open Data.
+
+Nel marzo 2012 FormezPA ha rilasciato la seconda release della licenza Italian Open Data License, indicata come IODL v2.0, priva di clausole del tipo "condividi-allo-stesso-modo" e con la sola richiesta di attribuzione della fonte per il riutilizzo dei dati. La licenza è progettata per i dati delle pubbliche amministrazioni italiane
+
+Open Knowledge Foundation Italia e il Centro NEXA su Internet & Società del Politecnico di Torino hanno offerto il repository it.ckan.net  dove chiunque poteva segnalare i dataset italiani disponibili online, assorbito da unico portale internazionale datahub.io Un servizio analogo era gestito dalla comunità del sito Spaghetti Open Data, ma il servizio è stato chiuso dopo il rilascio del sito nazionale, nel quale sono confluiti i dataset presenti. Da settembre 2012 è disponibile anche DatiOpen.it [25], un'altra iniziativa indipendente che offre a tutti servizi gratuiti di segnalazione, caricamento e visualizzazione.
+
+Alla fine del 2012 è stato rilasciato il servizio Open Data Hub Italia [26] che si è evoluto nel tempo e che oggi raccoglie in un ampio catalogo più di 38.000 dataset messi a disposizione da diverse organizzazioni sia pubbliche che private semplificandone la ricerca e l'accesso ai cittadini e alle imprese.
+
+L'associazione di giornalismo investigativo e Radio Radicale hanno dato il via al primo corso strutturato di Open Data Journalism.
+
+La comunità di maggior successo sul tema dei dati aperti si ritrova nella mailing list di Spaghetti Open Data.
+
+Dal 2013 la società Present SpA ha reso disponibile sotto licenza Creative Commons il modello aperto ODMC - Open Data Management Cycle, che propone un ciclo di gestione per i dati aperti pronto per l'uso e/o modifica delle Pubbliche Amministrazioni. Il modello è attualmente impiegato nel comune di Guidonia (che ha ricevuto il riconoscimento SMAU 2014 per la categoria Smart City), nella Regione Umbria (adattato e rinominato in "Modello Operativo Open Data (MOOD) Umbria") e nel Comune di Reggio Calabria.
+
+Il Legislatore italiano ha formalizzato una definizione di dati aperti (formalmente "dati di tipo aperto") inserendola all'interno del Codice dell'Amministrazione Digitale (da ultimo, all'art. 1, comma 1, lettera l-ter) del Decreto Legislativo 7 marzo 2005, n. 82)
+
+
+Secondo tale definizione, sono dati di tipo aperto i dati che presentano le seguenti tre caratteristiche:
+
+-	sono disponibili secondo i termini di una licenza o di una previsione normativa che ne permetta l'utilizzo da parte di chiunque, anche per finalità commerciali, in formato disaggregato
+
+-	sono accessibili attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, in formati aperti ai sensi della lettera l-bis), sono adatti all'utilizzo automatico da parte di programmi per elaboratori e sono provvisti dei relativi metadati;
+
+-	sono resi disponibili gratuitamente attraverso le tecnologie dell'informazione e della comunicazione, ivi comprese le reti telematiche pubbliche e private, oppure sono resi disponibili ai costi marginali sostenuti per la loro riproduzione e divulgazione salvo quanto previsto dall'articolo 7 del decreto legislativo 24 gennaio 2006, n. 36.
+
+Il piano triennale per l'informatica nella pubblica amministrazione integra la nozione di dato aperto affermando, al par. 4.1, che "Il dato deve essere inteso come bene comune, condiviso gratuitamente tra Pubbliche amministrazioni per scopi istituzionali e, salvo casi documentati e propriamente motivati, utilizzabile dalla società civile", sviluppando il cosiddetto principio open by default già presente nell'ordinamento italiano.
+
+
+Mi piace evidenziare come il dato sia l’elemento iniziale della catena di valore che ci porta all’azione sia questa pubblica sia privata! Il dato è informazione ovvero fornisce conoscenza per poter generare azione.
+La data strategy europea di recente emanazione ha dato proprio gli indirizzi per poter far si che possa ragionare sulla gestione, su ampio scala, del dato, e il programma europeo “Digital  Europe” punta sul potenziare le competenze digitali in tal senso.
+
+
+E’ importante non confondere i cosidetti Big Data con i dati aperti e distinguere le differenti tipologie di dati (BtoB – BtoC – GtoC e CtoC).
+Nel caso del PW partecipate abbiamo sia i primi due (dati dall’azienda ad altre aziende e vs il cittadino) sia GtoC ovvero dati dall’amministrazione pubblica verso il cittadino. Si vedrà poi in seguito se tale dato abbia le connotazione di un dato open ovvero sia Closed – Shared e Open.
+L’importanza del dato pubblico aperto è il suo riuso per permettere a chiunque di :
+
+-	Semplificare i processi
+
+-	Facilitare l’accesso ai cittadini
+
+-	Trasparenza della PA (nel PW partecipazioni trasparenza della gestione delle stesse partecipazioni)
+
+-	Permettere processi innovativi
+
+-	Favorire i policy maker con strumenti data driven.
+
+La Open Knowledge Foudation enuncia tre aspetti principali sul dato open ovvero:
+
+-	Disponibilità all’accesso
+
+-	Riutilizzo e ridistribuzione (ovvero interoperabilità tramite licenze)
+
+-	Partecipazione universale
+
+A questi aspetti sono legati 3 importanti requisiti:
+
+-	Un requisito giuridico (disponibilità, abbinato ad una licenza aperta che consenta il riuso anche per fini commerciali)
+
+-	Un requisito tecnologico (machine readable)
+
+-	Un requisito economico (gratuità ovvero costi marginali irrisori)
+
+**
+Da ricordare che il data è un “mezzo per”   e mai un fine. Questo aspetto è molto importante in una logica di una pubblica amministrazione.**
+
+Ricollegandoci quindi alle licenze, è possibile attribuire una licenza al dato, inteso nella sua specifica natura di dato accessibile a terzi, dunque un dato pubblico, non chiuso nella cassaforte di una società o protetto nella tabella di un database esclusivo.
+Nel momento in cui un’informazione di qualsiasi natura è esposta al pubblico che può liberamente prendere, copiare, utilizzare sorge il problema di garantire che l’uso che si fa di quella informazione sia lecito, corretto, pertinente e che non sia riprodotta in forma differente o falsata in modo da produrre una errata informazione.
+Per evitare che ciò accada non è percorribile e nemmeno conveniente chiudere i canali di informazione; l’informazione è utile e indispensabile per l’evoluzione della società, del sapere ed anche per lo sviluppo economico.
+Sul dato da un punto di vista informatico dobbiamo ritornare al CAD, articolo 1, comma 1, punto l-ter in cui viene data la definizione di dato aperto come liberamente disponibile secondo licenza o norma di legge, accessibile con strumenti informatici e gratuito. Il dato aperto assume dunque caratteri che rispecchiano quelli del software libero, conoscibilità, libera disponibilità, modifica, gratuità.
+
+In successivi articoli del CAD (art. 50 e 53), sono definiti alcuni obblighi e criteri limitanti per le PP.AA nella pubblicazione dei loro dati ma soprattutto nell’articolo 52 è specificata che la modalità o forma di pubblicazione dei dati è da considerarsi di tipo aperto, principio  riassumibile nella formula “open by default”, anche per quelle basi dati in cui non c’è stata espressione di una specifica licenza d’uso ai sensi del D.lgs 36/2006, art. 2, comma 1 lettera h: “licenza standard per il riutilizzo: il contratto, o altro strumento negoziale, redatto ove possibile in forma elettronica, nel quale sono definite le modalità di riutilizzo dei documenti delle pubbliche amministrazioni o degli organismi di diritto pubblico;”.
+
+Come per le licenze del software libero, le licenze redatte a garanzia o tutela delle basi dati esprimono vincoli o obblighi tesi a garantire o preservare accessibilità, libertà di accesso e distribuzione e sono redatte da associazioni, governi o istituzioni sovranazionali. 
+Nel catalogo delle licenze disponibili per i dati aperti sono espresse tutele di tipo differente:
+ad esempio la Creative Commons, organizzazione senza fini di lucro con sede negli Stati Uniti, ha redatto differenti licenze per la tutela dei diritto di proprietà e uso di opere e dati (quindi non solo per open data ma anche per altri tipi di opere) in cui sono espresse autorizzazioni riguardanti due libertà di condividere e distribuire e quattro condizioni di attribuzione, non commercializzazione, non derivazione, condivisione senza restrizioni e obbligatoria (copyleft); la diversa combinazione di queste libertà e restrizioni ha condotto alla definizione di una licenza CC0, definita di pubblico dominio caratterizzata dalla massima permissività, e di altre sei licenze che si diversificano per le restrizioni e permissività espresse dal solo riconoscimento dell’origine alla espressione di tutele e restrizioni più estese per tutti i trattamenti possibili ed eseguibili su una base dati.
+
+**
+Applicazione ai project work del gruppo 4A**
+
+Compiuta dunque la scelta e l’individuazione delle licenze software applicative, nella successiva attività di analisi e sviluppo è fondamentale considerare l’opportunità e la convenienza di produrre report informativi o di rendicontazione in formato aperto. 
+Questi possono riguardare per i diversi processi oggetto dei pw i dati di bilancio piuttosto che il numero di oggetti trattati per la fornitura, oppure i luoghi oggetto delle concessioni e tutto quanto si ritiene rilevante o necessario per garantire il principio di trasparenza e condivisione delle informazioni sull’attività della P.A., il tutto nel rispetto delle indicazioni contenute all’art. 50 comma 1 del CAD per cui non possono essere diffuse informazioni per le quali sono posti limiti alla conoscibilità da parte di leggi e regolamenti, che contengano dati personali e nel rispetto della normativa comunitaria.
+La produzione di questi report in formato open data, salvo diverse indicazioni del servizio comunale responsabile della gestione del portale dei dati aperti del Comune di Torino, saranno licenziati CC BY 4.0 https://creativecommons.org/licenses/by/4.0/legalcode.it che è lo standard scelto dall’ente per la pubblicazione dei suoi open data sul repositry comunale raggiungibile dalla url: http://aperto.comune.torino.it/ 
+In termini generali la licenza CC BY 4.0 prevede che il dato aperto sia reso disponibile per riproduzione, elaborazione, modifica e trasmissione ed anche l’elaborato abbia queste caratteristiche.
+Colui che utilizza il dato e lo riproduce o lo elabora deve indicare nel documento prodotto la provenienza dei dati e l’identificazione del creatore, deve procedere con l’affissione della licenza al nuovo documento estratto dalla base dati aperta, l’informativa sulle condizioni o esclusioni di responsabilità.
+In questo ambito si può considerare che l’uso di questa licenza possa rendere più sicuro e corretto l’uso del dato aperto prodotto dalla città rispetto allo standard open by default dove non essendo presente la licenza l’utilizzatore è assolutamente libero di riutilizzare il dato aperto ma l’amministrazione può perdere il controllo del proprio dato che potrebbe essere licenziato e redistribuito senza alcuna certezza della vera fonte.
+
+**
+Formato XBRL per i bilanci di esercizio**
+
+L’acronimo XBRL sta per eXtensible Business Reporting Language ed è un linguaggio cosiddetto di marcatura (mark-up language) ideato per poter scambiare informazioni di business e finanziarie.**
+
+La semplice filosofia di fondo consiste nell’etichettare i concetti come per esempio vendite, ricavi, costi, profitti con una etichetta e una serie di informazioni che lo descrivono (Metadati) e lo contestualizzano. Per esempio per contestualizzare e definire il concetto di utile è opportuno associare allo stesso un periodo (esercizio) e la valuta di riferimento. Tali concetti sono definiti e condivisi a priori dalla comunità interessata allo scambio delle informazioni (Autorità e regolatori, PA, Analisti finanziari, Finanziatori, ecc) e risultano pertanto chiari e univocamente interpretabili.
+
+Il documento che raccoglie l’elenco dei concetti, li definisce e li mette in relazione gerarchica è detto Tassonomia e rappresenta quindi una sorta di dizionario condiviso.
+
+La creazione di XBRL aveva come scopo principale quello di evitare la ri-digitazione dei dati di bilancio a carico dei revisori ed analisti. Dover inserire i dati manualmente oltre ad essere oneroso in termini di costi e tempi risultava altresì penalizzante dal punto di vista della qualità considerando i numerosi errori di digitazione.
+
+-	La tassonomia
+La tassonomia da utilizzare per redigere il bilancio in formato XBRL è la versione "2018-11-04", che recepisce le disposizioni di cui al D.Lgs. 13/2015. La tassonomia "2018-11-04" e la relativa documentazione sono disponibili nel sito dell'Agenzia per l'Italia Digitale e nel sito di XBRL Italia.
+ 
+-	Chi lo deve depositare
+Il file XBRL non può mai essere omesso, tranne nei casi di esonero espressamente previsti dalla normativa.
+
+-	Come si fa
+Il bilancio in formato XBRL viene prodotto dai più comuni software gestionali. In alternativa mettiamo a disposizione nella pagina STRUMENTI XBRL uno strumento di base per la predisposizione del bilancio in formato XBRL (istanza XBRL), la sua validazione e la sua rappresentazione in formato PDF o HTML. Questo strumento può essere utilizzato per la redazione dei bilanci di esercizio in forma ordinaria, abbreviata e micro-impresa. Lo stesso strumento può generare in formato XBRL il bilancio consolidato che anche per il 2018 è limitato al solo Prospetto Contabile. Qualsiasi file XBRL può essere validato e visualizzato in HTML o PDF utilizzando il servizio TEBENI.           
