@@ -1,6 +1,6 @@
 
 ##################################################################
-Il Passaggio da Bizagi a Bonita: l a Business porcess Automation
+Il Passaggio da Bizagi a Bonita: la Business process Automation
 ##################################################################
 
 
