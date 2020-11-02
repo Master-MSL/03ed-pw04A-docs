@@ -140,8 +140,8 @@ A questi aspetti sono legati 3 importanti requisiti:
 
 -	Un requisito economico (gratuità ovvero costi marginali irrisori)
 
-**
-Da ricordare che il data è un “mezzo per”   e mai un fine. Questo aspetto è molto importante in una logica di una pubblica amministrazione.**
+
+Da ricordare che il data è un “mezzo per”   e mai un fine. Questo aspetto è molto importante in una logica di una pubblica amministrazione
 
 Ricollegandoci quindi alle licenze, è possibile attribuire una licenza al dato, inteso nella sua specifica natura di dato accessibile a terzi, dunque un dato pubblico, non chiuso nella cassaforte di una società o protetto nella tabella di un database esclusivo.
 Nel momento in cui un’informazione di qualsiasi natura è esposta al pubblico che può liberamente prendere, copiare, utilizzare sorge il problema di garantire che l’uso che si fa di quella informazione sia lecito, corretto, pertinente e che non sia riprodotta in forma differente o falsata in modo da produrre una errata informazione.
@@ -154,8 +154,7 @@ Come per le licenze del software libero, le licenze redatte a garanzia o tutela 
 Nel catalogo delle licenze disponibili per i dati aperti sono espresse tutele di tipo differente:
 ad esempio la Creative Commons, organizzazione senza fini di lucro con sede negli Stati Uniti, ha redatto differenti licenze per la tutela dei diritto di proprietà e uso di opere e dati (quindi non solo per open data ma anche per altri tipi di opere) in cui sono espresse autorizzazioni riguardanti due libertà di condividere e distribuire e quattro condizioni di attribuzione, non commercializzazione, non derivazione, condivisione senza restrizioni e obbligatoria (copyleft); la diversa combinazione di queste libertà e restrizioni ha condotto alla definizione di una licenza CC0, definita di pubblico dominio caratterizzata dalla massima permissività, e di altre sei licenze che si diversificano per le restrizioni e permissività espresse dal solo riconoscimento dell’origine alla espressione di tutele e restrizioni più estese per tutti i trattamenti possibili ed eseguibili su una base dati.
 
-**
-Applicazione ai project work del gruppo 4A**
+**Appocazione ai project work del gruppo 4A**
 
 Compiuta dunque la scelta e l’individuazione delle licenze software applicative, nella successiva attività di analisi e sviluppo è fondamentale considerare l’opportunità e la convenienza di produrre report informativi o di rendicontazione in formato aperto. 
 Questi possono riguardare per i diversi processi oggetto dei pw i dati di bilancio piuttosto che il numero di oggetti trattati per la fornitura, oppure i luoghi oggetto delle concessioni e tutto quanto si ritiene rilevante o necessario per garantire il principio di trasparenza e condivisione delle informazioni sull’attività della P.A., il tutto nel rispetto delle indicazioni contenute all’art. 50 comma 1 del CAD per cui non possono essere diffuse informazioni per le quali sono posti limiti alla conoscibilità da parte di leggi e regolamenti, che contengano dati personali e nel rispetto della normativa comunitaria.
@@ -164,8 +163,7 @@ In termini generali la licenza CC BY 4.0 prevede che il dato aperto sia reso dis
 Colui che utilizza il dato e lo riproduce o lo elabora deve indicare nel documento prodotto la provenienza dei dati e l’identificazione del creatore, deve procedere con l’affissione della licenza al nuovo documento estratto dalla base dati aperta, l’informativa sulle condizioni o esclusioni di responsabilità.
 In questo ambito si può considerare che l’uso di questa licenza possa rendere più sicuro e corretto l’uso del dato aperto prodotto dalla città rispetto allo standard open by default dove non essendo presente la licenza l’utilizzatore è assolutamente libero di riutilizzare il dato aperto ma l’amministrazione può perdere il controllo del proprio dato che potrebbe essere licenziato e redistribuito senza alcuna certezza della vera fonte.
 
-**
-Formato XBRL per i bilanci di esercizio**
+**Formato XBRL per i bilanci di esercizio**
 
 L’acronimo XBRL sta per eXtensible Business Reporting Language ed è un linguaggio cosiddetto di marcatura (mark-up language) ideato per poter scambiare informazioni di business e finanziarie.**
 
