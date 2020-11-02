@@ -28,4 +28,5 @@ Bizagi Modeler consente anche di simulare i processi per predire come il process
 Si riporta schema prodotto, si rimanda agli allegati per i dettagli.
 Attualmente è in corso, sulla base delle evidenze maturate dal model Canvas, un aggiornamento del processo con Bizagi Modeler.
 
-
+https://github.com/dariorin75/03ed-pw04A-docs/blob/5689f7c3db33de8d85c919b8487dd3c112f02f03/Pw_partecipate/bizagi.pdf
+########################################################################################################################
