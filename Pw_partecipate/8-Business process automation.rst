@@ -90,12 +90,15 @@ Anche i processi di decision-making possono trarre beneficio dalla business auto
 
 
 4. Cloud Computing 
+
 Il cloud computing offre agli utenti privati e pubblici un ampio ventaglio di risorse tecnologiche e di business tradizionalmente appannaggio delle aziende: infrastruttura, capacità di processare i dati, storage, database e middleware. Il risultato è che lo sviluppo di applicazioni può diventare completamente indipendente dall'hardware e dai network di riferimento. Lo step successivo è il serverless computing, grazie al quale gli sviluppatori possono concentrarsi esclusivamente sulle funzionalità di business delle applicazioni senza preoccuparsi dei requisiti di backend.
 
 
 5. Container e microservizi
+
 Container e microservizi rendono le applicazioni più semplici da sviluppare e maggiormente portabili. I microservizi rappresentano funzionalità specifiche delle applicazioni e sono in grado di funzionare autonomamente. I container raccolgono quindi i pacchetti di applicazioni e sono facilmente implementabili all'interno di ambienti diversi, sia di tipo cloud che on-premise.
 
 
 6. Application Programming Interfaces (API)
+
 Le API sono pezzi di codice associati a servizi specifici. Pubbliche o private, abilitano la connessione con un'ampia gamma di funzionalità, riducendo i rischi di duplicare gli effort quando una particolare funzione è già disponibile all'interno dell'organizzazione dell'azienda.
