@@ -47,3 +47,37 @@ associati allo stesso documento, nonché all’archiviazione in un sistema di ge
 Nella dematerializzazione dei documenti, poi, tale conversione dei documenti cartacei in documenti informatici, può essere inoltre finalizzata anche alla sostituzione e alla possibilità di eliminare (o “scartare”, secondo il preciso termine archivistico) i documenti originali analogici dei quali si è prodotta una copia informatica avente il medesimo valore giuridico, probatorio e archivistico dei rispettivi originali. Tanto per quanto attiene agli obiettivi dei processi di dematerializzazione dei documenti.
 Per altro verso, i processi di digitalizzazione attengono – più propriamente – al ripensamento, alla riorganizzazione, alla “reingegnerizzazione” e all’efficienza dei procedimenti e dei servizi resi disponibili on line agli utenti, presupponendo che i relativi flussi documentali involgano già documenti informatici (nativi informatici o comunque documenti frutto di un processo di dematerializzazione all’esito del quale, appunto, si è giunti alla creazione di copie informatiche aventi il medesimo valore giuridico e archivistico degli originali analogici da cui sono stati tratte).
 
+
+#########################################
+La dematerializzazione nel project work  
+#########################################
+
+Il project work oggetto del report si è sviluppato all’interno di un team di discenti del Master formato da dipendenti del Comune di Torino accomunati dall’interesse di sviluppare dei project work per la gestione di attività specifiche dei servizi di appartenenza che rivelano caratteri generali di processo tra loro omologhi.
+
+Le tre idee progettuali riguardano oggetti di natura estremamente differente:
+● la gestione delle assegnazioni di spazi sportivi ad associazioni/federazioni/enti di
+promozione sportiva di competenza delle Circoscrizioni,
+
+● la fornitura di arredi scolastici per uso didattico alle scuole statali dell’obbligo
+
+● la gestione di un flusso documentale e di comunicazione tra la Città di Torino e le sue società partecipate,
+
+Pur con la profonda differenza degli oggetti delle procedure, tutti si realizzano attraverso processi da realizzare attraverso l’uso di strumenti software in forma completamente dematerializzata.
+
+Questi processi si possono così descrivere in modo neutro ma univoco:
+
+● ricezione di una comunicazione in input in un formato elettronico,
+
+● acquisizione e accettazione dell’input e inserimento in un archivio
+
+● elaborazione di un procedimento di istruttoria sulla singola comunicazione
+
+● produzione di un esito dell’istruttoria
+
+● emissione dell’esito in un output
+
+Nei tre processi sono coinvolti diversi soggetti operanti con appartenenze, ruoli e ambiti di responsabilità differenti.
+Nei tre ambiti progettuali i metaprocessi citati si arricchiscono di attività ed elementi specifici che saranno evidenziati nell’analisi di ogni attività che si intende andare a gestire con il prodotto realizzato nel project work.
+
+Per ogni specifico progetto si prevede l’utilizzo di un applicativo informatico customizzato, che dovrà essere rispondente alle norme e regole vigenti, sia quelle specifiche dell’attività oggetto del progetto che quelle di ambito più generale o non proprie dell’attività da gestire riguardanti il procedimento amministrativo, la gestione documentale, il trattamento dei dati personali ed infine la legislazione e le altre norme regolamentari e di indirizzo per quanto riguarda lo sviluppo, l'utilizzo, la proprietà materiale e la proprietà intellettuale degli applicativi sw e delle banche dati informatiche.
+
