@@ -1,5 +1,6 @@
 Sommario	4
 Premessa	5
+
 1 - Analisi organizzativa	7
 
 1.1 - Ambiente Esterno	7
@@ -11,19 +12,26 @@ Premessa	5
 2. - I processi	24
 
 3. - Obiettivi di fondo e strategia per raggiungerli	29
+
 3.1. - Aggiornamento di Midterm	30
 
 4. - Pianificazione, programmazione e controllo del progetto	30
+
 4.1. - Prima pianificazione	30
 
 4.2. - Aggiornamento di Midterm	35
+
 4.3. - Dematerializzazione	36
 
 
 4.4. - Aggiornamento del PW	45
+
 GANTT	45
+
 Model CANVAS	47
+
 SMART	48
+
 SWOT Analysis	49
 
 5. - Il Business Process Management e sua applicazione concreta	52
@@ -35,10 +43,15 @@ SWOT Analysis	49
 5.3. - Alternative esaminate:	66
 
 Bonita	66
+
 Bizagi	73
+
 Camunda	75
+
 Confronto tra Bizagi e Bonita	77
+
 Esperienza personale	80
+
 5.4. - Bizagi: asempio di applicazione del  processo di approvazione bilanci	81
 
 5.5. - Il passaggio da Bizagi a Bonita : La Business Process Automation	83
@@ -47,6 +60,7 @@ Esperienza personale	80
 
 
 6. - Focus su Open DATA	96
+
 6.1. - Premessa	96
 
 6.2. - Applicazione ai project work del gruppo 4A	104
