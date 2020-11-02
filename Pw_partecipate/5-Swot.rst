@@ -7,7 +7,9 @@ L'analisi SWOT (conosciuta anche come matrice SWOT) è uno strumento di pianific
 
 Tale tecnica è attribuita a Albert Humphrey, che guidò un progetto di ricerca all'Università di Stanford fra gli anni '60 e '70 utilizzando i dati forniti dalla Fortune 500.
 
-Opportunities                                  Tramite questa matrice vengono individuati i punti forti e deboli rilevati analizzando il contesto interno dell’organizzazione e le opportunità e minacce dedotte dal contesto esterno.
+
+
+Tramite questa matrice vengono individuati i punti forti e deboli rilevati analizzando il contesto interno dell’organizzazione e le opportunità e minacce dedotte dal contesto esterno.
 
 Nei punti forti interni sono evidenziati un personale con esperienza, un’ottima scolarizzazione e un’età relativamente bassa. Tutti questi sono elementi che possono essere fondamentali per gestire un ipotetico cambiamento organizzativo. Altri elementi positivi sono senza dubbio la buona collaborazione con le aziende con cultura aziendale consolidata e una normativa di settore orientata sul controllo.
 Come evidenziato nello swot l'età del personale è bassa, mentre alta è l'alfabetizzazione informatica pertanto si può dedurre che la resilienza al cambiamento del personale potrebbe essere problematica, così come la disponibilità ad affrontare un percorso formativo particolarmente intenso. Qualsiasi nuova metodologia dovrà essere quindi essere condivisa con il personale e legata ad un percorso di valutazione interna e comprensione non innescare meccanismi di resistenza al cambiamento di difficile superamento.
