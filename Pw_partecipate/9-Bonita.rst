@@ -36,9 +36,10 @@ Motore di esecuzione (motore di workflow) incaricato di istanziare i processi e 
 
 Strumenti di assistenza e di reporting basati su degli indicatori precisi e pertinenti per disporre di tabelle di bordo che permettano di prendere delle decisioni rapide e corrette. Si parla quindi di BAM (Business Activity Monitoring) per designare la nozione di controllo dello svolgimento dei processi aziendali.
 
-L'applicazione BonitaSoft è disponibile anche in modalità Cloud Computing.**
+L'applicazione BonitaSoft è disponibile anche in modalità Cloud Computing.
 
 Caratteristiche della soluzione BonitaSoft per il Business Process Management:
+
   Modellazione dei Workflow
   Sviluppo
   Esecuzione
@@ -47,18 +48,25 @@ Caratteristiche della soluzione BonitaSoft per il Business Process Management:
 
 
 Modellazione dei Workflow
+#########################
+
 BonitaSoft permette con il modellatore BPMN2 di disegnare i workflow del proprio business in modo rapido e intuitivo grazie a una tavolozza di gestione dei contenuti sempre presente in ogni step della creazione; è possibile gestire diversi ambiti applicativi, salvarli, archiviarli in modo condiviso su un server centrale, operare in real time e creare simulazioni di processi attraverso degli indicatori quali costi, costi, durata, consumo di risorse, calendari e inefficienze identificate; ottima capacità di management e distribuzione dei task in modo efficiente e dinamico a tutti gli utenti col supporto di filtri e regole predefinite.
 
 BonitaSoft aiuta l'utente con una progettazione assistita tramite la rappresentazione di errori e warning quando lo step non è configurato correttamente o alcuni dati sono andati perduti. E' possibile esportare i processi in diversi formati: pdf, jpeg, png, bmp, gif e svg. I moduli di importazione supportati sono BPMN2, JBPM3 e XPDL. 
+
 Sviluppo
+#########
+
 Nella fase di sviluppo BonitaSoft permette un'avanzata customizzazione delle applicazioni attraverso l'utilizzo di regole di validazione precostituite, impaginazione, campi dinamici di riempimento e campi dipendenti, facile personalizzazione dei template e del logo dell'applicazione BPM.
 Le applicazioni BonitaSoft sono generate con Bonita Studio - il software che soddisfa i requisiti W3C usando gli standard html, css e javascript.
 BonitaSoft per il Business Process Management consente di usufruire di una grande varietà di connettori, oltre 100 di proprietà del software e open source come Microsoft exchange, Sap, Talend, o derivanti da contributi della community BonitaSoft; inoltre offre una gestione guidata per lo sviluppo e il testing di nuovi connettori e la configurazione dei connettori riutilizzabli. Offre una gestione avanzata dei processi in formati multipli come java objects, XML o documenti allegati e un editor per la gestione dei dati.
 Grazie alla sua interfaccia intuitiva è possibile settare diversi ambienti applicativi con un click quali test, pre-produzione e ottimizzazione dei tempi, sviluppo ed esecuzione; inoltre è possibile generare applicazioni based-process pienamente operative BPM standalone. 
 
 
+Esecuzione
+##########
 
-Esecuzione**
+
 BonitaSoft consente di avere, grazie all'innovativa interfaccia "inbox" user experience:
 
 -	Gestione dei task facile e veloce e l'organizzazione dei lavori in etichette e categorie
@@ -71,6 +79,8 @@ BonitaSoft consente di avere, grazie all'innovativa interfaccia "inbox" user exp
 -	Disponibilità di API che includono java based-api, EJB2, EJB3 e REST e facilmente inseribili
 
 Amministrazione e monitoraggio
+###############################
+
 BonitaSoft per il Business Process Management propone delle applicazioni avanzate del software in ottica di management e monitoraggio
 Assegnazione di privilegi a gruppi di utenti: solo lettura, modifica, update
 Costante monitoraggio in real-time con il supporto di Bonita UserXP BAM (Business Activity Monitoring)
@@ -88,21 +98,27 @@ Esempio di applicazione Bonita al processo “bilanci” e sua descrizione
 Quindi partendo dai principi della BPA il passaggio obbligato dal processo mappata può essere BONITA. Per le specificità di Bonita si rinvia al capitolo precedente, qui si riporterà un esempio di BPA sul processo di approvazione dei bilanci.
 Considerata la complessità di sviluppo si è optato per la costruzione di una procedura semplificata e resa il più possibile lineare.
 
-Caso
+**Caso**
+
 Approvazione da parte della città del bilancio di esercizio di una società partecipata
 
-Attori
+**Attori**
+
 Società partecipata (uffici bilancio, CdA, revisori)
 Ufficio partecipate
 Delegato 
 Assemblea dei soci
 
-Obiettivo
+
+**Obiettivo**
+
 Miglioramento gestione flussi informativo tra i soggetti
 Migliorare tempistiche
 Monitorare i flussi di informazioni
 
-Flusso
+
+**Flusso**
+
 Trasmissione bilancio dalla partecipata alla Città
 Istruttoria volta a redazione relazione 
 Interlocuzione tra gli uffici comunali e gli uffici della società per dipanare eventuali dubbi
@@ -111,3 +127,4 @@ Redazione relazione
 Istruzione al delegato della Città
 Approvazione, da parte del delegato, del bilancio in Assemblea
 Archiviazione relazione e bilancio
+
