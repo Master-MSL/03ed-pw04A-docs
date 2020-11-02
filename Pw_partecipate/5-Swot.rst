@@ -7,7 +7,8 @@ L'analisi SWOT (conosciuta anche come matrice SWOT) è uno strumento di pianific
 
 Tale tecnica è attribuita a Albert Humphrey, che guidò un progetto di ricerca all'Università di Stanford fra gli anni '60 e '70 utilizzando i dati forniti dalla Fortune 500.
 
-
+https://github.com/dariorin75/03ed-pw04A-docs/blob/main/Pw_partecipate/swot.pdf
+################################################################################
 
 Tramite questa matrice vengono individuati i punti forti e deboli rilevati analizzando il contesto interno dell’organizzazione e le opportunità e minacce dedotte dal contesto esterno.
 
