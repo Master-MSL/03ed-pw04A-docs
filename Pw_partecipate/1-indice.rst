@@ -14,7 +14,9 @@ La Città di Torino - Economia	8
 
 La municipalità di Torino	10
 
-Ambiente Interno	13Organizzazione genera
+Ambiente Interno	13
+
+Organizzazione area  13
 
 Sistema informativo comunale	14
 
