@@ -1,6 +1,6 @@
-#################################
+#######
 Bonita
-########
+#######
 
 Bonita è una piattaforma open source per la gestione dei processi aziendali e il flusso di lavoro creata nel 2001. È stata avviata presso l' Istituto nazionale francese di ricerca in informatica e successivamente trasferita al Groupe Bull . Nel 2009, il direttore della divisione BPM, Miguel Valdes Faura - con due suoi compagni di squadra (Charles Souillard e Rodrigue Le Gall) - ha fondato Bonitasoft , la società che ha continuato lo sviluppo della piattaforma open source e l'ha resa disponibile in entrambi un'edizione della community gratuita e open source e un'edizione in abbonamento commerciale.
 Bonita permette con il modellatore BPMN2 di disegnare i workflow del proprio business in modo rapido e intuitivo grazie a una tavolozza di gestione dei contenuti sempre presente in ogni step della creazione; è possibile gestire diversi ambiti applicativi, salvarli, archiviarli in modo condiviso su un server centrale, operare in real time e creare simulazioni di processi attraverso degli indicatori quali costi, costi, durata, consumo di risorse, calendari e inefficienze identificate; ottima capacità di management e distribuzione dei task in modo efficiente e dinamico a tutti gli utenti col supporto di filtri e regole predefinite. BonitaSoft aiuta l'utente con una progettazione assistita tramite la rappresentazione di errori e warning quando lo step non è configurato correttamente o alcuni dati sono andati perduti. E' possibile esportare i processi in diversi formati: pdf, jpeg, png, bmp, gif e svg. I moduli di importazione supportati sono BPMN2, JBPM3 e XPDL.
