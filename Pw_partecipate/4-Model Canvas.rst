@@ -8,6 +8,8 @@ Business Model Canvas è un modello di gestione strategica e startup snella per 
 
 I nove "elementi costitutivi" del modello di progettazione del modello di business che venne chiamato Business Model Canvas furono inizialmente proposti nel 2005 da Alexander Osterwalder sulla base del suo precedente lavoro sull'ontologia dei modelli di business. Dall'uscita del lavoro di Osterwalder intorno al 2008, sono apparse nuove varianti per nicchie di business specifiche.
 
-link al canvas
+
+
+
 
 Sul Canvas qui elaborato, frutto di analisi con i docenti del Master, ci si è concentrati sulle 7 variabili della parte alta, mentre sono solo abbozzati la struttura dei costi e il flusso dei ricavi essendo il business analizzato legato ad una procedura di una pa.
