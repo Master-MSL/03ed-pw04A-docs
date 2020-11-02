@@ -55,6 +55,7 @@ La dematerializzazione nel project work
 Il project work oggetto del report si è sviluppato all’interno di un team di discenti del Master formato da dipendenti del Comune di Torino accomunati dall’interesse di sviluppare dei project work per la gestione di attività specifiche dei servizi di appartenenza che rivelano caratteri generali di processo tra loro omologhi.
 
 Le tre idee progettuali riguardano oggetti di natura estremamente differente:
+
 ● la gestione delle assegnazioni di spazi sportivi ad associazioni/federazioni/enti di
 promozione sportiva di competenza delle Circoscrizioni,
 
