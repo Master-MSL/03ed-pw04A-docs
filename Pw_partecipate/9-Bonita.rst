@@ -128,3 +128,6 @@ Istruzione al delegato della Città
 Approvazione, da parte del delegato, del bilancio in Assemblea
 Archiviazione relazione e bilancio
 
+
+https://github.com/dariorin75/03ed-pw04A-docs/blob/main/Pw_partecipate/bonita.pdf
+###################################################################################
