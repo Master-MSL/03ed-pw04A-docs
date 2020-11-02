@@ -1,6 +1,6 @@
-###################################
+####################################
 Misurazione dei costi per progetti
-###################################
+####################################
 
 
 Si può utilizzare il Job Order Cost Accounting System (JOCAS) che permette di ottenere il costo da imputare sul progetto/commessa:
@@ -22,9 +22,9 @@ Rispetto ai benefici invece si è valutato, mediante un metodo indiretto, il min
 
 In questo caso per atto si considera atti particolarmente complessi quali delibere di GC o CC, contratti, relazioni tecniche. Si sono ipotizzati recuperi minimi del 10% (6 minuti all'ora pari a 3€) e recuperi maggiori del 15% (9 minuti all'ora pari a 4,5€) dati da queste conoscenze acquisite.
 
-#############################
+##############################
 Costo per le risorse Hardware
-#############################
+##############################
 
 Nel team di lavoro con i colleghi Fava e Rigotti si è proceduto alla valutazione delle risorse hardware necessarie per sviluppare i nostri PW utilizzando Bonita.
 Oltre i pc con i browser compatibili per l’utilizzo degli interfaccia generati da Bonita UI designer sono necessarie risorse hardware e software in cloud per installazione pacchetto Bonita con le sue varie componenti e aperte all’accesso verso l’esterno.
