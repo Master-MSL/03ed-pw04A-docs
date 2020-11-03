@@ -20,8 +20,7 @@ I nove "elementi costitutivi" del modello di progettazione del modello di busine
 Il business model di un’organizzazione può essere descritto con 9 elementi di base:
 
 
-** Segmenti di clientela**
-
+**Clientela**
 
 Le Customer Relationships definiscono il tipo di relazioni che l’azienda instaura con la sua clientela. Questa forma comunicativa aiuta l’impresa ad acquisire nuovi clienti e a fidelizzare quelli già esistenti, ed è quindi parte essenziale di un business plan che funziona.
 
@@ -58,6 +57,8 @@ Le variabili da considerare sono i prezzi (fissi o dinamici) e le modalità di p
 **Risorse chiave dell'azienda**
 
 Le Key Resources sono tutte le risorse chiave di cui un’impresa deve disporre per far funzionare il proprio business. A formare il bagaglio degli assets strategici concorrono le risorse umane (forza lavoro), fisiche (punti vendita, impianti, macchinari), intellettuali (software, licenze d’uso, diritti d’autore) e finanziarie (prestiti, linee di credito, denaro contante). Lo scopo è quello di individuare le risorse più efficaci nella creazione di una specifica proposta di valore per un determinato segmento di clienti.
+
+**Attività chiave**
 
 Key Activities, le attività chiave per rendere effettivo il modello di business;
 Il blocco delle Key Activites comprende tutte le attività necessarie per la creazione di una proposta di valore. A queste, si affiancano i processi più efficienti per raggiungere il target, mantenere le relazioni con i clienti e, ovviamente, generare ricavi. Le attività chiave possono essere distinte in tre tipologie: produttive, di problem solving, di manutenzione o sviluppo.
