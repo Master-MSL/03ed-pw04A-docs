@@ -1,0 +1,40 @@
+################################
+Misurazione costi per progetti
+################################
+
+
+
+Si può utilizzare il Job Order Cost Accounting System (JOCAS) che permette di ottenere il costo da imputare sul progetto/commessa:
+- metodo: accumulazione dei costi per progetto
+- caratteristica distintiva: i materiali e la manodopera possono essere direttamente ricollegabili al progetto, così come le basi per la ripartizione dei costi indiretti di produzione
+- scopo: fornire informazioni sul costo di una commessa
+
+Relativamente ai costi da assegnare si devono quindi distinguere i costi diretti e i costi indiretti. 
+Su quest’ultimi sarebbe necessario prevedere la definizione di un CAP (coefficiente di allocazione preventivo usato per imputare i costi indiretti alle commesse viene determinato prima dell’inizio del periodo) all’inizio della programmazione.
+Relativamente alla definizione dei costi si procederà alla definizione di costi distinti sui 3 sub-obiettivi individuati. Come anticipato precedentemente per questo report ci si concentrerà sui costi del primo sub-obiettivo.
+
+Si è provveduto a valorizzare il costo del pc, delle sale riunioni e dell'e.e. utilizzata come costi fissi (forfetizzando l'e.e.); i costi riportati sono dati da valori reperibili sul mercato. 
+Nei costi variabili si è conteggiato le ore uomo del personale che è stato impegnato nelle riunioni e della po (partecipante al master).
+
+Il costo orario è dato da un dato medio reperito dagli uffici del personale della Città. 
+Sia i costi fissi sia quelli variabili sono costi di fattori produttivi che attualmente sono "gratuiti" in città essendo ricompresi sia nelle attrezzature dell'ufficio, i primi, sia nel costo già subito dall'amministrazione, quelli relativi al personale. Ma al fine di effettuare una valutazione costi/benefici si è valutato necessario tale assunzione di base. 
+
+Rispetto ai benefici invece si è valutato, mediante un metodo indiretto, il minor costo orario del personale dovuto a recupero di efficienza oraria data dall'aumento delle conoscenze, competenze, professionalità e motivazione data dalla formazione. 
+
+In questo caso per atto si considera atti particolarmente complessi quali delibere di GC o CC, contratti, relazioni tecniche. Si sono ipotizzati recuperi minimi del 10% (6 minuti all'ora pari a 3€) e recuperi maggiori del 15% (9 minuti all'ora pari a 4,5€) dati da queste conoscenze acquisite.
+
+#############################
+Costo per le risorse Hardware
+#############################
+
+
+Nel team di lavoro con i colleghi Fava e Rigotti si è proceduto alla valutazione delle risorse hardware necessarie per sviluppare i nostri PW utilizzando Bonita.
+Oltre i pc con i browser compatibili per l’utilizzo degli interfaccia generati da Bonita UI designer sono necessarie risorse hardware e software in cloud per installazione pacchetto Bonita con le sue varie componenti e aperte all’accesso verso l’esterno.
+
+Da un prima valutazione con il CSI il costo si è attestato su circa 35 euro mensili; tale costo comprende i seguenti servizi:  
+•	Compute service: 32,00 € - Sistema Operativo Linux, 2 CPU equivalente a 4 GHZ, 4GB di RAM, 10 GB di Spazio Disco (Low Range), 10 GB di Backup (Retention 14 giorni)
+•	Rete e sicurezza: 3,25 € - VPN SSL , Start up VPN SSL , Virtual Load Balancing , Dns , 1 Ip Pubblici
+•	Assistenza con profilo e orario standard: 0,00 €
+
+
+Le risorse su cui è stato richiesto il preventivo, salvo la necessità di rivedere alcuni parametri, non sono di uso esclusivo del presente progetto: in presenza di un analogo processo sviluppato con Bonita cpu, spazio server e tutti gli altri servizi acquisiti sono utilizzabili anche dal nuovo pacchetto; considerando che il gruppo PW-4A sta analizzando tre processi analoghi e gestibili con il pacchetto Bonita, in queste aree e con queste risorse potrebbero essere ospitate e gestite le applicazioni e i dati per tutti i PW.

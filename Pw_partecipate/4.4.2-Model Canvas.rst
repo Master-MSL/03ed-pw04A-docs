@@ -1,0 +1,84 @@
+###############
+Model CANVAS
+###############
+
+
+Si è inoltre proceduto ad analizzare il processo con il model Canvas come sotto riportato.
+
+Business Model Canvas è un modello di gestione strategica e startup snella per lo sviluppo di nuovi o documenti modelli di business esistenti. È un grafico visivo con elementi che descrivono la proposta di valore di un'azienda o del prodotto, l'infrastruttura, i clienti e le finanze.  Aiuta le aziende ad allineare le loro attività illustrando potenziali compromessi.
+Il business model canvas è uno strumento strategico. Si presenta sotto forma di schema grafico ed è utile a sviluppare nuovi modelli di business o a perfezionare quelli già esistenti.
+
+Con “modello di business”, o business model, si intende l’insieme delle soluzioni organizzative e strategiche che permettono all’azienda di creare, distribuire e acquisire valore.
+Un’impresa crea valore per i suoi clienti quando li aiuta a soddisfare un bisogno, realizzare un desiderio o risolvere un problema.
+Sfruttando la logica del “pensiero visivo”, il business model canvas (canvas=tela) crea una sorta di linguaggio universale: ciò consente di condividere e semplificare concetti complessi che riguardano il funzionamento dell’azienda, rendendoli comprensibili a tutti.
+Il business model canvas può sembrare uno strumento per manager di grandi aziende o per imprenditori di startup innovative d’oltreoceano, ma è in realtà uno strumento ideale per avere una visuale chiara e schematica di un qualsiasi progetto di business, dal nuovo prodotto che vogliamo produrre, alla riapertura della negozio sotto casa fino al grande progetto industriale.
+
+I nove "elementi costitutivi" del modello di progettazione del modello di business che venne chiamato Business Model Canvas furono inizialmente proposti nel 2005 da Alexander Osterwalder sulla base del suo precedente lavoro sull'ontologia dei modelli di business. Dall'uscita del lavoro di Osterwalder intorno al 2008, sono apparse nuove varianti per nicchie di business specifiche.
+
+
+
+Il business model di un’organizzazione può essere descritto con 9 elementi di base:
+
+
+**Clientela**
+
+Le Customer Relationships definiscono il tipo di relazioni che l’azienda instaura con la sua clientela. Questa forma comunicativa aiuta l’impresa ad acquisire nuovi clienti e a fidelizzare quelli già esistenti, ed è quindi parte essenziale di un business plan che funziona.
+
+Interrogarsi sull’interazione con il proprio target aiuta a chiarire quale tipo di relazione si sta costruendo, a supportare l’esperienza del cliente e a rafforzare l’immagine dell’impresa sul mercato.
+
+
+**Prodotti**
+
+Value Proposition, ovvero il valore dei prodotti o servizi offerto per ogni segmento
+La Value Proposition è la promessa realistica riguardo il valore dei prodotti e servizi, sulla base dei benefici tangibili per un determinato segmento di clienti.
+
+
+In breve, è la motivazione per cui il target dovrebbe preferire l’azienda rispetto alla concorrenza e, pertanto, ne determina la stessa forza di vendita. Non vi è un modo univoco per creare una buona proposta di valore.
+
+Può trattarsi di un’innovazione, ossia di offrire ai clienti qualcosa di rivoluzionario, di un abbassamento di prezzo che determini un risparmio economico, oppure del miglioramento del design e delle performance di un prodotto. In ogni caso, è il cliente il vero protagonista, insieme al suo benessere e alla soddisfazione delle sue esigenze funzionali, emotive e sociali.
+
+**Canali**
+
+Il blocco dei Channels, o Canali, sta ad indicare l’insieme dei mezzi con cui la proposta di valore raggiunge il cliente, nelle fasi di comunicazione, distribuzione e vendita.
+
+Nel concreto, l’azienda sfrutta i canali per informare i potenziali acquirenti dell’esistenza e del valore dei suoi prodotti, per renderli accessibili e permetterne l’acquisto e per garantire un’adeguata assistenza post-vendita. I canali possono essere diretti, ossia di proprietà dell’azienda, oppure indiretti (ad esempio, distributori ufficiali e negozi partner).
+
+**Clientela**
+
+Customer Relationships, le relazioni che si instaurano con il cliente;
+Il blocco dei Segmenti di Clientela descrive le classi di persone e le organizzazioni a cui l’azienda si rivolge. Un segmento di clientela può essere definito attraverso dati demografici (età, etnia, sesso, etc), o in relazione a fattori psicografici come abitudini di consumo, bisogni e interessi comuni.
+
+**Ricavi generati**
+
+Il blocco dei Revenue Streams descrive gli incassi che l’azienda ottiene dalla vendita di prodotti o servizi a un determinato segmento di clientela.
+
+Le variabili da considerare sono i prezzi (fissi o dinamici) e le modalità di pagamento, due aspetti fondamentali per rendere il modello di business sostenibile. I flussi di ricavi possono essere di diversa natura ed essere generati da fonti altrettanto varie: dalla vendita di prodotti fisici al compenso di un canone d’uso, dalla cessione di una licenza alle commissioni di intermediazione. In questa fase, è possibile identificare il sistema di pagamento preferito dai clienti, così come il valore aggiunto per il quale il target è disposto a pagare.
+
+**Risorse chiave dell'azienda**
+
+Le Key Resources sono tutte le risorse chiave di cui un’impresa deve disporre per far funzionare il proprio business. A formare il bagaglio degli assets strategici concorrono le risorse umane (forza lavoro), fisiche (punti vendita, impianti, macchinari), intellettuali (software, licenze d’uso, diritti d’autore) e finanziarie (prestiti, linee di credito, denaro contante). Lo scopo è quello di individuare le risorse più efficaci nella creazione di una specifica proposta di valore per un determinato segmento di clienti.
+
+**Attività chiave**
+
+Key Activities, le attività chiave per rendere effettivo il modello di business;
+Il blocco delle Key Activites comprende tutte le attività necessarie per la creazione di una proposta di valore. A queste, si affiancano i processi più efficienti per raggiungere il target, mantenere le relazioni con i clienti e, ovviamente, generare ricavi. Le attività chiave possono essere distinte in tre tipologie: produttive, di problem solving, di manutenzione o sviluppo.
+
+**Partners**
+
+Key Partners, i partner chiave con i quali l’impresa intende allearsi al fine di creare valore per il cliente;
+A popolare il blocco dei Key Partners è la rete di fornitori e partners con cui l’azienda collabora per creare valore da offrire al cliente. Un’impresa, infatti, non è una struttura autosufficiente, quanto piuttosto un sistema che agisce all’interno di un contesto più ampio, supportato da attori esterni. Stringere alleanze strategiche risponde alle necessità aziendali di ridurre i costi, diminuire i rischi della concorrenza e acquisire particolari risorse ed attività.
+
+**Costi**
+
+Cost Structure, la struttura dei costi per le risorse, le attività e i partner chiave.
+Il blocco della Costs Structure definisce i costi fissi e variabili che l’azienda deve sostenere per le risorse, le attività e i partner chiave. Per alcuni tipi di attività, contenere le spese diventa un aspetto centrale, soprattutto se fra gli obiettivi del business plan vi è quello di mantenere i propri prezzi competitivi.
+
+Nell’analisi della struttura dei costi, rientrano quelli fissi (ad esempio, affitti e stipendi) e quelli variabili, ovvero dipendenti dal volume di beni e servizi prodotti. In ogni caso, l’obiettivo centrale è quello di assicurarsi che i flussi di ricavi superino le spese: solo così l’attività può dirsi effettivamente sostenibile.
+
+
+
+https://github.com/dariorin75/03ed-pw04A-docs/blob/main/Pw_partecipate/canvas.pdf
+####################################################################################
+
+
+Sul Canvas qui elaborato, frutto di analisi con i docenti del Master, ci si è concentrati sulle 7 variabili della parte alta, mentre sono solo abbozzati la struttura dei costi e il flusso dei ricavi essendo il business analizzato legato ad una procedura di una pa.
